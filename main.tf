@@ -9,7 +9,6 @@ terraform {
 
 resource "github_repository" "terraform" {
   name        = "terraform-test-repo"
-  description = "This is a repo created by Terraform"
   auto_init   = true
 
   visibility = "public"
