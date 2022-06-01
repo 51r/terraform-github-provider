@@ -1,6 +1,6 @@
 # Terraform GitHub Provider
 
-This repo contains Terraform GitHub Provider that creates a GitHub repo named `terraform-test-repo`that contains "README.md" file with text "This repo is managed by HashiCorp Terraform"
+This repo contains Terraform GitHub Provider that creates a GitHub repo named `terraform-test-repo`that contains "README.md" file with text "The repo was created by HashiCorp Terraform"
 
 
 # Prerequisite
