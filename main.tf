@@ -20,7 +20,7 @@ resource "github_repository_file" "file" {
   repository          = github_repository.terraform.name
   branch              = "main"
   file                = "README.md"
-  content             = "# This repo is managed by HashiCorp Terraform"
+  content             = "# Terraform Test Repo \n The repo was created by HashiCorp Terraform"
   commit_message      = "Managed by Terraform"
   commit_author       = "Peter Spasov"
   commit_email        = "petar.spasov@hashicorp.com"
