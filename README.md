@@ -11,6 +11,7 @@ This repo contains Terraform GitHub Provider that creates a GitHub repo named `t
 
 # How to use the repo
 
+If you wish you can modify arguments `commit_author` and `commit_email` to your desired values.
 
 1. Clone the repo to your local directory:
 ```
@@ -36,6 +37,7 @@ terraform plan
 ```
 terraform apply
 ```
+
 6. Review the GitHub Repo.
 
 <img width="1447" alt="Screen Shot 2022-06-01 at 3 21 42 PM" src="https://user-images.githubusercontent.com/52199951/171403286-8bf0afef-17c8-4f54-86b0-adb0c7c57b73.png">
