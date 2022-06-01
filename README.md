@@ -40,4 +40,4 @@ terraform apply
 
 6. Review the GitHub Repo.
 
-<img width="1447" alt="Screen Shot 2022-06-01 at 3 21 42 PM" src="https://user-images.githubusercontent.com/52199951/171403286-8bf0afef-17c8-4f54-86b0-adb0c7c57b73.png">
+<img width="1437" alt="Screen Shot 2022-06-01 at 3 31 14 PM" src="https://user-images.githubusercontent.com/52199951/171404956-f19640ca-038e-476a-92e7-9fac014a79ce.png">
