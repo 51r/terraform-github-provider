@@ -5,7 +5,7 @@ This repo contains Terraform GitHub Provider that creates a GitHub repo named `t
 
 # Prerequisite
 
-* Install [Terraform](https://www.terraform.io/downloads.html) `>=0.12`
+* Install [Terraform](https://www.terraform.io/downloads.html) `>=0.13`
 * Create Github token and add it as environment var:
 `export GITHUB_TOKEN=YOUR_TOKEN`
 
