@@ -9,7 +9,7 @@ terraform {
 
 resource "github_repository" "terraform" {
   name        = "terraform-test-repo"
-  description = "The repo was created by HashiCorp Terraform"
+  description = "This repo was created by HashiCorp Terraform"
   auto_init   = true
 
   visibility = "public"
