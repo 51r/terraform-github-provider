@@ -1,6 +1,6 @@
 # Terraform GitHub Provider
 
-This repo contains Terraform GitHub Provider that creates a GitHub repo named `terraform-test-repo` that has descriptions "This repo was created by HashiCorp Terraform"
+This repo contains Terraform GitHub Provider that creates a GitHub repo named `terraform-test-repo` that has description "This repo was created by HashiCorp Terraform"
 
 
 # Prerequisite
